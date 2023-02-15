@@ -1,0 +1,214 @@
+{"level":"info","message":"Connecting to the Redis","timestamp":"2023-02-15T06:13:47.056Z"}
+{"level":"info","message":"Connected!","timestamp":"2023-02-15T06:13:47.115Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T06:13:49.546Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T06:14:04.491Z"}
+{"level":"error","message":"Error in acquiring the Token","timestamp":"2023-02-15T06:14:26.106Z"}
+{"level":"info","message":"Connecting to the Redis","timestamp":"2023-02-15T06:15:02.276Z"}
+{"level":"info","message":"Connected!","timestamp":"2023-02-15T06:15:02.326Z"}
+{"level":"error","message":"Error in retrieving the id of the logged in user","timestamp":"2023-02-15T06:15:12.086Z"}
+{"level":"error","message":"Error in acquiring the Token","timestamp":"2023-02-15T06:15:49.769Z"}
+{"level":"info","message":"Connecting to the Redis","timestamp":"2023-02-15T06:16:27.899Z"}
+{"level":"info","message":"Connected!","timestamp":"2023-02-15T06:16:27.920Z"}
+{"level":"error","message":"Error in retrieving the id of the logged in user","timestamp":"2023-02-15T06:16:35.953Z"}
+{"level":"error","message":"Error in acquiring the Token","timestamp":"2023-02-15T06:16:47.423Z"}
+{"level":"info","message":"Connecting to the Redis","timestamp":"2023-02-15T06:17:07.637Z"}
+{"level":"info","message":"Connected!","timestamp":"2023-02-15T06:17:07.674Z"}
+{"level":"info","message":"Connecting to the Redis","timestamp":"2023-02-15T06:17:31.153Z"}
+{"level":"info","message":"Connected!","timestamp":"2023-02-15T06:17:31.179Z"}
+{"level":"error","message":"Error in acquiring the Token","timestamp":"2023-02-15T06:17:43.535Z"}
+{"level":"info","message":"Connecting to the Redis","timestamp":"2023-02-15T06:18:07.669Z"}
+{"level":"info","message":"Connected!","timestamp":"2023-02-15T06:18:07.709Z"}
+{"level":"error","message":"Error in acquiring the Token","timestamp":"2023-02-15T06:18:24.401Z"}
+{"level":"info","message":"Connecting to the Redis","timestamp":"2023-02-15T06:19:21.087Z"}
+{"level":"info","message":"Connected!","timestamp":"2023-02-15T06:19:21.101Z"}
+{"level":"error","message":"Error in acquiring the Token","timestamp":"2023-02-15T06:19:44.075Z"}
+{"level":"error","message":"Error in retrieving the id of the logged in user","timestamp":"2023-02-15T06:19:45.486Z"}
+{"level":"error","message":"Error in acquiring the Token","timestamp":"2023-02-15T06:20:08.226Z"}
+{"level":"error","message":"Error in retrieving the id of the logged in user","timestamp":"2023-02-15T06:20:09.657Z"}
+{"level":"error","message":"Error in retrieving the id of the logged in user","timestamp":"2023-02-15T06:22:10.386Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T06:22:17.760Z"}
+{"level":"error","message":"Error in retrieving the specific calendar ID","timestamp":"2023-02-15T06:22:17.972Z"}
+{"level":"error","message":"Error in retrieving the id of the logged in user","timestamp":"2023-02-15T06:22:40.707Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T06:23:29.543Z"}
+{"level":"error","message":"Error in retrieving the specific calendar ID","timestamp":"2023-02-15T06:23:29.548Z"}
+{"level":"error","message":"Error in posting the added events details to the Graph API.","timestamp":"2023-02-15T06:23:40.404Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T06:23:45.105Z"}
+{"level":"error","message":"Error in retrieving all the events from Graph API to locate the correct transaction ID in order to delete the specified event","timestamp":"2023-02-15T06:23:52.756Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T06:24:01.012Z"}
+{"level":"error","message":"Error in acquiring the Token","timestamp":"2023-02-15T06:24:16.202Z"}
+{"level":"error","message":"Error in retrieving the id of the logged in user","timestamp":"2023-02-15T06:24:17.669Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T06:24:21.561Z"}
+{"level":"error","message":"Error in retrieving the specific calendar ID","timestamp":"2023-02-15T06:24:21.574Z"}
+{"level":"error","message":"Error in posting the added events details to the Graph API.","timestamp":"2023-02-15T06:24:32.585Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T06:24:36.301Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T06:24:51.052Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T06:25:05.483Z"}
+{"level":"error","message":"Error in retrieving the id of the logged in user","timestamp":"2023-02-15T06:25:18.398Z"}
+{"level":"error","message":"Error in retrieving the specific calendar ID","timestamp":"2023-02-15T06:25:42.256Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T06:25:42.329Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T06:25:56.486Z"}
+{"level":"error","message":"Error in retrieving the id of the logged in user","timestamp":"2023-02-15T06:26:02.835Z"}
+{"level":"error","message":"Error in retrieving the id of the logged in user","timestamp":"2023-02-15T06:26:09.797Z"}
+{"level":"error","message":"Error in acquiring the Token","timestamp":"2023-02-15T06:26:59.778Z"}
+{"level":"error","message":"Error in retrieving the id of the logged in user","timestamp":"2023-02-15T06:27:01.510Z"}
+{"level":"info","message":"Connecting to the Redis","timestamp":"2023-02-15T06:28:33.476Z"}
+{"level":"info","message":"Connected!","timestamp":"2023-02-15T06:28:33.491Z"}
+{"level":"error","message":"Error in acquiring the Token","timestamp":"2023-02-15T06:28:54.575Z"}
+{"level":"error","message":"Error in retrieving the id of the logged in user","timestamp":"2023-02-15T06:28:55.999Z"}
+{"level":"info","message":"Connecting to the Redis","timestamp":"2023-02-15T06:29:57.012Z"}
+{"level":"info","message":"Connected!","timestamp":"2023-02-15T06:29:57.026Z"}
+{"level":"error","message":"Error in acquiring the Token","timestamp":"2023-02-15T06:30:13.630Z"}
+{"level":"error","message":"Error in retrieving the id of the logged in user","timestamp":"2023-02-15T06:30:15.096Z"}
+{"level":"info","message":"Connecting to the Redis","timestamp":"2023-02-15T06:31:41.303Z"}
+{"level":"info","message":"Connected!","timestamp":"2023-02-15T06:31:41.317Z"}
+{"level":"error","message":"Error in retrieving the id of the logged in user","timestamp":"2023-02-15T06:32:16.406Z"}
+{"level":"info","message":"Connecting to the Redis","timestamp":"2023-02-15T06:34:56.322Z"}
+{"level":"info","message":"Connected!","timestamp":"2023-02-15T06:34:56.346Z"}
+{"level":"error","message":"Error in retrieving the id of the logged in user","timestamp":"2023-02-15T06:38:11.534Z"}
+{"level":"info","message":"Connecting to the Redis","timestamp":"2023-02-15T06:40:22.817Z"}
+{"level":"info","message":"Connected!","timestamp":"2023-02-15T06:40:22.831Z"}
+{"level":"error","message":"Error in retrieving the id of the logged in user","timestamp":"2023-02-15T06:40:35.001Z"}
+{"level":"info","message":"Connecting to the Redis","timestamp":"2023-02-15T06:41:09.998Z"}
+{"level":"info","message":"Connected!","timestamp":"2023-02-15T06:41:10.012Z"}
+{"level":"error","message":"Error in retrieving the id of the logged in user","timestamp":"2023-02-15T06:41:14.120Z"}
+{"level":"info","message":"Connecting to the Redis","timestamp":"2023-02-15T06:41:49.944Z"}
+{"level":"info","message":"Connected!","timestamp":"2023-02-15T06:41:49.960Z"}
+{"level":"error","message":"Error in retrieving the id of the logged in user","timestamp":"2023-02-15T06:41:53.874Z"}
+{"level":"error","message":"Error in retrieving the id of the logged in user","timestamp":"2023-02-15T06:42:35.317Z"}
+{"level":"error","message":"Error in retrieving the id of the logged in user","timestamp":"2023-02-15T06:43:24.675Z"}
+{"level":"error","message":"Error in retrieving the specific calendar ID","timestamp":"2023-02-15T06:44:10.758Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T06:44:10.810Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T06:44:25.489Z"}
+{"level":"error","message":"Error in retrieving the id of the logged in user","timestamp":"2023-02-15T06:44:29.495Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T06:44:40.146Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T06:44:56.836Z"}
+{"level":"info","message":"Connecting to the Redis","timestamp":"2023-02-15T06:45:09.371Z"}
+{"level":"info","message":"Connected!","timestamp":"2023-02-15T06:45:09.387Z"}
+{"level":"error","message":"Error in retrieving the id of the logged in user","timestamp":"2023-02-15T06:45:14.455Z"}
+{"level":"info","message":"Connecting to the Redis","timestamp":"2023-02-15T06:48:10.021Z"}
+{"level":"info","message":"Connected!","timestamp":"2023-02-15T06:48:10.036Z"}
+{"level":"error","message":"Error in retrieving the id of the logged in user","timestamp":"2023-02-15T06:48:13.747Z"}
+{"level":"info","message":"Connecting to the Redis","timestamp":"2023-02-15T06:48:51.054Z"}
+{"level":"info","message":"Connected!","timestamp":"2023-02-15T06:48:51.068Z"}
+{"level":"error","message":"Error in retrieving the id of the logged in user","timestamp":"2023-02-15T06:48:54.317Z"}
+{"level":"info","message":"Connecting to the Redis","timestamp":"2023-02-15T06:49:18.760Z"}
+{"level":"info","message":"Connected!","timestamp":"2023-02-15T06:49:18.775Z"}
+{"level":"error","message":"Error in retrieving the id of the logged in user","timestamp":"2023-02-15T06:49:21.553Z"}
+{"level":"info","message":"Connecting to the Redis","timestamp":"2023-02-15T06:50:13.152Z"}
+{"level":"info","message":"Connected!","timestamp":"2023-02-15T06:50:13.166Z"}
+{"level":"info","message":"Connecting to the Redis","timestamp":"2023-02-15T06:51:26.050Z"}
+{"level":"info","message":"Connected!","timestamp":"2023-02-15T06:51:26.066Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T06:51:42.660Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T06:53:00.097Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T06:57:46.705Z"}
+{"level":"info","message":"Connecting to the Redis","timestamp":"2023-02-15T07:03:29.190Z"}
+{"level":"info","message":"Connected!","timestamp":"2023-02-15T07:03:29.206Z"}
+{"level":"error","message":"Error in acquiring the Token","timestamp":"2023-02-15T07:03:50.472Z"}
+{"level":"error","message":"Error in acquiring the Token","timestamp":"2023-02-15T07:08:50.954Z"}
+{"level":"info","message":"Connecting to the Redis","timestamp":"2023-02-15T07:09:38.897Z"}
+{"level":"info","message":"Connected!","timestamp":"2023-02-15T07:09:38.911Z"}
+{"level":"error","message":"Error in acquiring the Token","timestamp":"2023-02-15T07:10:05.208Z"}
+{"level":"info","message":"Connecting to the Redis","timestamp":"2023-02-15T07:10:44.945Z"}
+{"level":"info","message":"Connected!","timestamp":"2023-02-15T07:10:44.962Z"}
+{"level":"error","message":"Error in acquiring the Token","timestamp":"2023-02-15T07:11:00.698Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T07:11:07.492Z"}
+{"level":"error","message":"Error in acquiring the Token","timestamp":"2023-02-15T07:12:02.239Z"}
+{"level":"error","message":"Error in acquiring the Token","timestamp":"2023-02-15T07:15:57.556Z"}
+{"level":"error","message":"Error in acquiring the Token","timestamp":"2023-02-15T07:20:15.467Z"}
+{"level":"error","message":"Error in acquiring the Token","timestamp":"2023-02-15T07:42:24.898Z"}
+{"level":"error","message":"Error in acquiring the Token","timestamp":"2023-02-15T07:44:28.705Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T08:15:29.391Z"}
+{"level":"error","message":"Error in acquiring the Token","timestamp":"2023-02-15T08:17:08.587Z"}
+{"level":"info","message":"Connecting to the Redis","timestamp":"2023-02-15T08:44:02.017Z"}
+{"level":"info","message":"Connected!","timestamp":"2023-02-15T08:44:02.034Z"}
+{"level":"error","message":"Error in acquiring the Token","timestamp":"2023-02-15T08:59:36.094Z"}
+{"level":"error","message":"Error in acquiring the Token","timestamp":"2023-02-15T09:03:15.968Z"}
+{"level":"error","message":"Error in acquiring the Token","timestamp":"2023-02-15T09:07:14.770Z"}
+{"level":"info","message":"Connecting to the Redis","timestamp":"2023-02-15T09:07:47.998Z"}
+{"level":"info","message":"Connected!","timestamp":"2023-02-15T09:07:48.012Z"}
+{"level":"info","message":"Connecting to the Redis","timestamp":"2023-02-15T09:20:26.211Z"}
+{"level":"info","message":"Connected!","timestamp":"2023-02-15T09:20:26.225Z"}
+{"level":"error","message":"Error in acquiring the Token","timestamp":"2023-02-15T09:20:43.423Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:20:57.088Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:21:12.073Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:21:27.126Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:21:42.073Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:21:57.130Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:22:12.185Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:22:27.137Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:22:42.188Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:22:57.100Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:23:12.193Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:23:27.347Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:23:42.199Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:23:57.044Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:24:12.202Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:24:27.069Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:24:42.207Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:24:57.161Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:25:12.110Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:25:26.926Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:25:42.011Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:25:57.117Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:26:12.013Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:26:27.127Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:26:42.140Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:26:57.178Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:27:12.160Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:27:27.284Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:27:42.027Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:27:57.285Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:28:12.198Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:28:27.295Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:28:42.250Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:28:57.298Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:29:12.143Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:29:27.298Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:29:42.149Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:29:57.309Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:30:12.367Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:30:27.273Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:30:42.192Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:30:57.316Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:31:12.262Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:31:27.316Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:31:42.267Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:31:57.527Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:32:12.341Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:32:27.330Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:32:42.309Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:32:57.333Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:33:12.184Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:33:27.482Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:33:42.389Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:33:57.544Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:34:12.292Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:34:27.449Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:34:42.197Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:34:57.349Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:35:12.403Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:35:27.456Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:35:42.389Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:35:57.356Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:36:12.312Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:36:27.363Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:36:42.418Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:36:57.473Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:37:12.424Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:37:27.502Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:37:42.626Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:37:57.373Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:38:12.425Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:38:27.485Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:38:42.412Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:38:57.489Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:39:12.441Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:39:27.692Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:39:42.438Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:39:57.700Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:40:12.446Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:40:27.504Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:40:42.484Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:40:57.606Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:41:12.312Z"}
+{"level":"error","message":"Error in getting event data from the Graph API and setting it to Redis","timestamp":"2023-02-15T10:41:27.607Z"}
